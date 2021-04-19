@@ -1,4 +1,4 @@
-# Kaggle-Project-shopee-Shopee---Price-Match-Guarantee
+# Kaggle-Project-Shopee-Price-Match-Guarantee
 Determine if two products are the same by their images
 
 Task Description:
